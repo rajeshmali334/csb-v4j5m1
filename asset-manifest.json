@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rajeshmali334.github.io/csb-v4j5m1/static/css/main.1e78ad8d.chunk.css",
+    "main.js": "https://rajeshmali334.github.io/csb-v4j5m1/static/js/main.9421cf27.chunk.js",
+    "main.js.map": "https://rajeshmali334.github.io/csb-v4j5m1/static/js/main.9421cf27.chunk.js.map",
+    "runtime-main.js": "https://rajeshmali334.github.io/csb-v4j5m1/static/js/runtime-main.64b1a60d.js",
+    "runtime-main.js.map": "https://rajeshmali334.github.io/csb-v4j5m1/static/js/runtime-main.64b1a60d.js.map",
+    "static/js/2.944254be.chunk.js": "https://rajeshmali334.github.io/csb-v4j5m1/static/js/2.944254be.chunk.js",
+    "static/js/2.944254be.chunk.js.map": "https://rajeshmali334.github.io/csb-v4j5m1/static/js/2.944254be.chunk.js.map",
+    "index.html": "https://rajeshmali334.github.io/csb-v4j5m1/index.html",
+    "static/css/main.1e78ad8d.chunk.css.map": "https://rajeshmali334.github.io/csb-v4j5m1/static/css/main.1e78ad8d.chunk.css.map",
+    "static/js/2.944254be.chunk.js.LICENSE.txt": "https://rajeshmali334.github.io/csb-v4j5m1/static/js/2.944254be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64b1a60d.js",
+    "static/js/2.944254be.chunk.js",
+    "static/css/main.1e78ad8d.chunk.css",
+    "static/js/main.9421cf27.chunk.js"
+  ]
+}
